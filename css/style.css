@@ -1,0 +1,25 @@
+/*-------------------tag----------------*/
+body{
+  background-color: #EAF6F6
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF; 
+}
+
+hr{
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 10%;
+}
+
+
+/*-------------------class----------------*/
+.profpic {
+  height: 200px;
+}
